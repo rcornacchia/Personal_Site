@@ -1,0 +1,32 @@
+Arguments: 
+  /Users/rob.cornacchia/.nvm/versions/node/v8.9.3/bin/node /Users/rob.cornacchia/.yarn/bin/yarn.js start
+
+PATH: 
+  /Users/rob.cornacchia/.nvm/versions/node/v8.9.3/bin:/Users/rob.cornacchia/.zplug/bin:/Users/rob.cornacchia/.yarn/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.3
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/rob.cornacchia/Personal_Site"
+      at new MessageError (/Users/rob.cornacchia/.yarn/lib/cli.js:186:110)
+      at /Users/rob.cornacchia/.yarn/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/Users/rob.cornacchia/.yarn/lib/cli.js:98:30)
+      at /Users/rob.cornacchia/.yarn/lib/cli.js:109:13
+      at <anonymous>
